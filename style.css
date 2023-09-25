@@ -2,6 +2,6 @@
   font-family: 'Lato', sans-serif;
 }
 
-.pri-bg-col{
+.pri-bg-col, .pri-text-col, btn-ol-col {
   background-color: #2487CE !important;
 }
