@@ -1,7 +1,28 @@
-*{
+* {
   font-family: 'Lato', sans-serif;
 }
 
-.pri-bg-col, .pri-text-col, btn-ol-col {
+.pri-bg-col {
   background-color: #2487CE !important;
+}
+
+.pri-text-col {
+  color: #2487CE !important;
+}
+
+.pri-btn-col {
+  border-color: #2487CE !important;
+}
+
+
+.sec-bg-col {
+  background-color: #124265 !important;
+}
+
+.sec-text-col {
+  color: #124265 !important;
+}
+
+.sec-btn-col {
+  border-color: #124265 !important;
 }
