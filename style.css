@@ -31,18 +31,18 @@
 /* To remove the hamburger button style*/
 
 
-.navbar-toggler:focus {
+.navbar-toggler::before {
     outline: none;
     box-shadow: none;
-  border: none;
+    border: none;
 }
-.navbar-toggler:active {
+.navbar-toggler::before {
     outline: none;
     box-shadow: none;
-  border: none;
+    border: none;
 }
-.navbar-toggler-icon:focus {
+.navbar-toggler-icon::before {
     outline: none;
     box-shadow: none;
-  border: none;
+    border: none;
 }
