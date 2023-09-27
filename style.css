@@ -26,3 +26,12 @@
 .sec-btn-col {
   border-color: #124265 !important;
 }
+
+
+/* To remove the hamburger button style*/
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
